@@ -11,7 +11,7 @@
 ./target/linux/ramips/dts/mt7621_RX_WT600.dts
 
 
-2.【修改文件-添加RX_WT-600型号】
+2.【修改文件-添加RX_WT600型号】
 
 ./target/linux/ramips/image/mt7621.mk
 
